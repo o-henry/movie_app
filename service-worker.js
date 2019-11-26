@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moive_app/precache-manifest.0818a848e2e827cac2cbdb475b0e6cef.js"
+  "/moive_app/precache-manifest.9df9faa67f59c8144bbf55e548a3956d.js"
 );
 
 self.addEventListener('message', (event) => {
